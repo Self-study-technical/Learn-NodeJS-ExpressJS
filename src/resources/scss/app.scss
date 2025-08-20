@@ -1,0 +1,9 @@
+@import "variable";
+.hello {
+  font-size: 1.2rem;
+  color: $red-color;
+  background-color: #f8f9fa;
+}
+h1 {
+  color: $red-color;
+}
